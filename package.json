@@ -1,0 +1,18 @@
+{
+  "name": "interactive-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mytkdals93/interactive-web.git",
+  "author": "LEESANGMIN <mytkdals93@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-preset-env": "^1.7.0",
+    "fibers": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}
